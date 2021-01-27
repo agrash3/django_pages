@@ -1,2 +1,2 @@
 # django_pages
-Assignment #7 - Django
+Assignment #2 - Django static pages
